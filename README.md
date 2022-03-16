@@ -38,8 +38,6 @@ elif Logan ==False:
 elif deta ==None:
 	print("Error account is bad")
 	
-```
-### To get the number of followers
 
 ``` python
 ```
