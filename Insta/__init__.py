@@ -1,0 +1,1 @@
+from .SalamInsta import salammzere3
