@@ -1,1 +1,1 @@
-from .SalamInsta import salammzere3
+from .SalamInsta import *
