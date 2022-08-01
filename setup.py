@@ -13,29 +13,29 @@ setup(
 
     name="SalamInsta",
     
-    version="1.0.1",
+    version="1.0.2",
     
     author="salammzere3",
     
-    author_email="salam123@hi2.in",
+    author_email="salammzere0@gmail.com",
     
-    description = ("login Instagram"),
+    description = ("For developers"),
     
     long_description_content_type="text/markdown",
     
     url="https://github.com/salammzere3/SalamInsta",
     
     project_urls={
-        "Bug Tracker": "https://github.com/salammzere3/SalamInsta/issues",
+        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
     },
     
     long_description=long_description,
     
     packages=find_packages(),
     
-    install_requires=['requests'],
+    install_requires=['requests', 'geocoder', 'user_agent', 'pyfiglet'],
     
-    keywords=['instagram'],
+    keywords=['SalamInsta'],
     
     classifiers=[
     
